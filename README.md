@@ -2,7 +2,7 @@
 This is a simple demo project that demonstrates my understanding of Grid and Flex design principles. 
 
 ## View it Live
-Click [here](https://www.npmjs.com/) to view the project 
+Click [here](https://react-grid-project.vercel.app/) to view the project 
 
 
 ## Local Development: Requirements
